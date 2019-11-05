@@ -4,4 +4,8 @@
     <TargetFramework>netstandard2.0</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\DDDCrashCourse.SharedKernel\DDDCrashCourse.SharedKernel.csproj" />
+  </ItemGroup>
+
 </Project>
